@@ -1,0 +1,10 @@
+{
+	"import axios":  {
+		"scope": "javascript,typescript",
+		"prefix": "ipax",
+		"body": [
+			"import axios from 'axios';"
+		],
+		"description": "import axios"
+	}
+}
