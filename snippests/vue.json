@@ -1,0 +1,24 @@
+{
+	"vue template with set up":  {
+		"scope": "vue",
+		"prefix": "<st",
+		"body": [
+            "<script lang='ts' setup>",
+            "import { defineProps } from 'vue'",
+            "const props=defineProps({ ",
+            "  ",
+             "});",
+			"</script>\n",
+			"<template>",
+            "  <div>",
+			"  ",
+            "  </div>",
+			"</template>\n",
+	
+			"<style scoped lang='scss'>",
+			"  ",
+			"</style>"
+		],
+		"description": "vue template with set up"
+	}
+}
