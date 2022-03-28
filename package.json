@@ -19,6 +19,10 @@
 			{
 				"language": "javascript",
 				"path": "./snippests/javascript.json"
+			},
+			{
+				"language": "vue",
+				"path": "./snippests/vue.json"
 			}
 		]
 	},
