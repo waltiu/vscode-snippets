@@ -1,7 +1,7 @@
 {
 	"publisher":"waltiu",
   	"name": "frontend-snippests",
-	  "icon": "icon.png",
+	"icon": "icon.png",
 	"displayName": "frontend-snippests",
 	"description": "自定义用户片段，高效开发",
 	"version": "0.0.1",
